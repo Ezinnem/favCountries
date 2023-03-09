@@ -1,1 +1,1 @@
-# chop-n-smile
+# Chop-n-Smile
